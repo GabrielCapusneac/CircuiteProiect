@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Q? Old Footprint=TRANS_2N3819 New Footprint=TO-254-AA
+Change Component Comment: Designator=Q? Old Comment=2N3819 New Comment=JFET-N
+Change Pin Designator/Name:  Old Designator=Q?-1 Old Name=S New Designator =D New Name=3
+Change Pin Designator/Name:  Old Designator=Q?-3 Old Name=D New Designator =S New Name=1

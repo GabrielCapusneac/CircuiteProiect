@@ -1,0 +1,19 @@
+Added Component: Designator=JN(TO92)
+Add component (AddParameter): Name = "Availability"; Value = "Bad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "2N5458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N5458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92 Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N5458/ON%20Semiconductor/view-part/2007694/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "2N5458.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP1_1 Pin=JN-1
+Added Pin To Net: NetName=GND Pin=JN-3
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetJN_1
+Added Pin To Net: NetName=NetJN_2 Pin=JN-2
+Added Pin To Net: NetName=NetJN_2 Pin=R3-2
+Added Net: Name=NetJN_2
+Added Member To Class: ClassName=pcb jfet Member=Component JN 2N5458

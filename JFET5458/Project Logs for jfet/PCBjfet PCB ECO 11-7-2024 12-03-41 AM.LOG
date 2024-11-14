@@ -1,0 +1,16 @@
+Change Footprint: Footprint Not Found TO-254-AA
+Change Managed Component Library Link : Designator=Q? Old VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE New VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE Old ItemGUID=C15E269C-DDE9-4BD4-9EBD-952C776BA122 New ItemGUID=6D4B5B74-7DAA-45DC-9CF5-7EC690741464 Old RevisionGUID=B4E06916-8F26-4014-B28B-D12E22BC8FCC New RevisionGUID=14747E07-3554-4463-BABF-84EA4901D7D0
+Change component parameters: Designator = "Q?" ("Q?"); Footprint = "TO-254-AA"; UniqueID = "\VXPNKJZU" ("\VXPNKJZU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2N3819/InterFET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "2N3819"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "InterFET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "2N3819"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-92-3 InterFET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/2N3819/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N3819/InterFET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "2N3819.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

@@ -1,0 +1,26 @@
+|RECORD=BOM|VERSION=6|FILENAME=C:\Users\Public\Documents\Altium\adrs\jfet.$$$|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=06.11.2024|TIME=21:39:09|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Line #=54!Comment=71!Description=105!Designator=107!Revision ID=80!Revision State=126!Revision Status=101!Quantity=67!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=54!Comment=71!Description=105!Designator=107!Revision ID=80!Revision State=126!Revision Status=101!Quantity=67!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Revision ID=-1!Revision State=-1!Revision Status=-1!Manufacturer 1=-1!Manufacturer Part Number 1=-1!Manufacturer Lifecycle 1=-1!Supplier 1=-1!Supplier Part Number 1=-1!Supplier Unit Price 1=-1!Supplier Subtotal 1=-1|CONSOLIDATEDVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Revision ID=-1!Revision State=-1!Revision Status=-1!Quantity=-1!Manufacturer 1=-1!Manufacturer Part Number 1=-1!Manufacturer Lifecycle 1=-1!Supplier 1=-1!Supplier Part Number 1=-1!Supplier Unit Price 1=-1!Supplier Subtotal 1=-1
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|PARTSOURCES=|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=ExternalCheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-Vault|UNIQUEID=F71A9E60-2E0B-4B5D-9BC1-5D18D81BBC36\DC906E34-F37F-4A55-B848-024543624EA7|DESIGNITEMID=CMP-022-000003-1|ITEMSOURCE=Universitatea Stefan Cel Mare Suceava|STATUS=Unknown|DESCRIPTION=Plug|USERCOMMENTS=Plug|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=|COMPONENTPARAMETERS=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-Vault|UNIQUEID=89646B11-F9D0-4910-A2D1-9263786A0703\029BDCF1-3DF6-4212-9EB6-D07E5574F334|DESIGNITEMID=CMP-002-00141-1|ITEMSOURCE=Universitatea Stefan Cel Mare Suceava|STATUS=Unknown|DESCRIPTION=Header, 2-Pin|USERCOMMENTS=Header 2|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=|COMPONENTPARAMETERS=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-Vault|UNIQUEID=C15E269C-DDE9-4BD4-9EBD-952C776BA122\B4E06916-8F26-4014-B28B-D12E22BC8FCC|DESIGNITEMID=CMP-019-000008-1|ITEMSOURCE=Universitatea Stefan Cel Mare Suceava|STATUS=Unknown|DESCRIPTION=N-Channel JFET|USERCOMMENTS=JFET-N|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=|COMPONENTPARAMETERS=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\Res2|DESIGNITEMID=Res2|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Resistor|USERCOMMENTS=Res2|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=470K,Res2,Resistor|COMPONENTPARAMETERS=Comment=Res2,"Component Kind=Standard",Description=Resistor,Footprint=AXIAL-0.4,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=Res2","PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing",PackageReference=AXIAL-0.4,PCB3D=,"Pin Info=",Published=8-Jun-2000,"Publisher=Altium Limited","Signal Integrity=Res",Simulation=RESISTOR,Value=470K|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\Res2|DESIGNITEMID=Res2|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Resistor|USERCOMMENTS=Res2|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=33K,Res2,Resistor|COMPONENTPARAMETERS=Comment=Res2,"Component Kind=Standard",Description=Resistor,Footprint=AXIAL-0.4,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=Res2","PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing",PackageReference=AXIAL-0.4,PCB3D=,"Pin Info=",Published=8-Jun-2000,"Publisher=Altium Limited","Signal Integrity=Res",Simulation=RESISTOR,Value=33K|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0

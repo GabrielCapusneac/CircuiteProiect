@@ -1,0 +1,7 @@
+Added Component: Designator=Rpot(Potentiometer)
+Added Pin To Net: NetName=NetC4_2 Pin=P H3L3-1
+Added Pin To Net: NetName=NetC4_2 Pin=P L32-1
+Added Pin To Net: NetName=NetP TE_1 Pin=Rpot-1
+Added Pin To Net: NetName=NetC2_1 Pin=Rpot-2
+Added Pin To Net: NetName=NetC2_1 Pin=Rpot-3
+Added Member To Class: ClassName=SheetOscilator Member=Component Rpot Potentiometer Custom

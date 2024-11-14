@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=L2 Old Footprint=HF467-130M-80AH New Footprint=0402-A
+Change Component Footprint: Designator=L1 Old Footprint=HF467-260M-45AH New Footprint=0402-A
+Change Component Footprint: Designator=L3 Old Footprint=HF467-260M-45AH New Footprint=0402-A
+Change Component Comment: Designator=Rpot Old Comment= New Comment=Potentiometer Custom
+Change Component Comment: Designator=L2 Old Comment=HF467-130M-80AH New Comment=Inductor
+Change Component Comment: Designator=L1 Old Comment=HF467-260M-45AH New Comment=Inductor
+Change Component Comment: Designator=L3 Old Comment=HF467-260M-45AH New Comment=Inductor

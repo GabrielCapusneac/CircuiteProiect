@@ -1,0 +1,51 @@
+Change Footprint: Footprint Not Found 0402-A
+Change Footprint: Footprint Not Found 0402-A
+Change Footprint: Footprint Not Found 0402-A
+Change Managed Component Library Link : Designator=L1 Old VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE New VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE Old ItemGUID=49E9F5DB-5A33-4DA4-849A-C0FC00FD54E3 New ItemGUID=C097A18C-2227-4C83-B23D-F7319906F5CA Old RevisionGUID=1A79C5B6-E09F-4A8B-AC9E-035DDDED568B New RevisionGUID=6CBEC52C-4591-40D4-8C02-665C344D7288
+Change Managed Component Library Link : Designator=L2 Old VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE New VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE Old ItemGUID=49E9F5DB-5A33-4DA4-849A-C0FC00FD54E3 New ItemGUID=B096AE36-233B-4BE8-A1A9-F7C59BEEDCB7 Old RevisionGUID=1A79C5B6-E09F-4A8B-AC9E-035DDDED568B New RevisionGUID=AB196A24-0214-41F4-AF61-A8C3428654ED
+Change Managed Component Library Link : Designator=L3 Old VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE New VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE Old ItemGUID=49E9F5DB-5A33-4DA4-849A-C0FC00FD54E3 New ItemGUID=C097A18C-2227-4C83-B23D-F7319906F5CA Old RevisionGUID=1A79C5B6-E09F-4A8B-AC9E-035DDDED568B New RevisionGUID=6CBEC52C-4591-40D4-8C02-665C344D7288
+Change component parameters: Designator = "L1" ("L1"); Footprint = "0402-A"; UniqueID = "\BRTQEUGJ" ("\BRTQEUGJ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.coilws.com/images/HF467-260M-45AH REV.C.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "45A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DCR"; Value = "3.0 mOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "HF467-260M-45AH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "25.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "25 uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer #1"; Value = "CWS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OD"; Value = "55.88 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sim.Analog.Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sim.Analog.Order"; Value = "Model$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sim.Analog.Prefix"; Value = "L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "HF400_Series.SchLib"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "0402-A"; UniqueID = "\UFIKLGZL" ("\UFIKLGZL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.coilws.com/images/HF467-130M-80AH Rev A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "80A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DCR"; Value = "20 mOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "HF467-130M-80AH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "27.18 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "2 uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer #1"; Value = "CWS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OD"; Value = "56.39 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sim.Analog.Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sim.Analog.Order"; Value = "Model$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sim.Analog.Prefix"; Value = "L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "HF400_Series.SchLib"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3" ("L3"); Footprint = "0402-A"; UniqueID = "\BOZHICNQ" ("\BOZHICNQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.coilws.com/images/HF467-260M-45AH REV.C.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "45A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DCR"; Value = "3.0 mOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "HF467-260M-45AH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "25.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "25 uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer #1"; Value = "CWS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OD"; Value = "55.88 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sim.Analog.Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sim.Analog.Order"; Value = "Model$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sim.Analog.Prefix"; Value = "L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "HF400_Series.SchLib"; VariantName = "[No Variations]"

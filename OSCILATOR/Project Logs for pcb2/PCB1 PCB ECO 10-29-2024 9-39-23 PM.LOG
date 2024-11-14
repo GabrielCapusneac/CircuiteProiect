@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P G1
+Change Component Designator: OldDesignator=P? NewDesignator=P G2
+Change Component Designator: OldDesignator=P? NewDesignator=P H3L2
+Change Component Designator: OldDesignator=P? NewDesignator=P H3L3
+Change Component Designator: OldDesignator=P? NewDesignator=P L1
+Change Component Designator: OldDesignator=P? NewDesignator=P L1r
+Change Component Designator: OldDesignator=P? NewDesignator=P L23
+Change Component Designator: OldDesignator=P? NewDesignator=P L32
+Change Component Designator: OldDesignator=P? NewDesignator=P TB
+Change Component Designator: OldDesignator=P? NewDesignator=P TC
+Change Component Designator: OldDesignator=P? NewDesignator=P TE
+Change Component Designator: OldDesignator=P? NewDesignator=P Vcc
+Change Component Designator: OldDesignator=P? NewDesignator=P Vin
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP TE_1
+Added Pin To Net: NetName=NetP Vcc_1 Pin=P Vcc-1
+Added Pin To Net: NetName=NetP Vcc_1 Pin=R1-2
+Added Pin To Net: NetName=NetP Vcc_1 Pin=Rc-2
+Added Pin To Net: NetName=NetP Vcc_1 Pin=Vcc-1
+Added Net: Name=NetP Vcc_1
+Added Member To Class: ClassName=Sheet1 Member=Component P G1 Plug
+Added Member To Class: ClassName=Sheet1 Member=Component P G2 Plug
+Added Member To Class: ClassName=Sheet1 Member=Component P H3L3 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P L1r Plug
+Added Member To Class: ClassName=Sheet1 Member=Component P L1 Plug
+Added Member To Class: ClassName=Sheet1 Member=Component P L23 Plug
+Added Member To Class: ClassName=Sheet1 Member=Component P L32 Plug
+Added Member To Class: ClassName=Sheet1 Member=Component P TB Plug
+Added Member To Class: ClassName=Sheet1 Member=Component P TC Plug
+Added Member To Class: ClassName=Sheet1 Member=Component P TE Plug
+Added Member To Class: ClassName=Sheet1 Member=Component P Vcc Plug
+Added Member To Class: ClassName=Sheet1 Member=Component P Vin Plug
