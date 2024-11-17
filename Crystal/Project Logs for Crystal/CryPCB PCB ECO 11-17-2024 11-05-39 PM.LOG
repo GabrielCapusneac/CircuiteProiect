@@ -1,0 +1,9 @@
+Added Component: Designator=*(PCBComponent_1)
+Add component (AddParameter): Name = "Design Item ID"; Value = "Component_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Crist1Mhz.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=Q1-2
+Added Pin To Net: NetName=Net*_2 Pin=Rg-2
+Added Net: Name=Net*_2
+Added Member To Class: ClassName=CrySCHE Member=Component * CRT

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=Y1-1
+Removed Member From Class: ClassName=CrySCHE Member=Y1
+Added Component: Designator=*(PCBComponent_1)
+Add component (AddParameter): Name = "Design Item ID"; Value = "Component_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Crist1Mhz.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=Net*_0 Pin=Q1-2
+Added Pin To Net: NetName=Net*_0 Pin=Rg-2
+Added Net: Name=Net*_0
+Added Member To Class: ClassName=CrySCHE Member=Component * CST
