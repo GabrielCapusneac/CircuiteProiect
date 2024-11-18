@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetJN_1 Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Member From Class: ClassName=pcb jfet Member=Q1
+Added Component: Designator=T1(TO-254-AA)
+Add component (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-254-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "JFET-N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-254-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Miscellaneous Devices.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJN_1 Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-3
+Change Net Name : Old Net Name=NetJN_1 New Net Name=NetP1_1
+Change Net Name : Old Net Name=Vdd New Net Name=NetP2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=T1-2
+Added Net: Name=NetR3_2
+Added Member To Class: ClassName=pcb jfet Member=Component T1 JFET-N

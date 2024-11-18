@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=Q? Old Footprint=SOT-23B_N New Footprint=TO-226-AA
+Change Component Comment : Designator=Q? Old Comment=QNPN New Comment=NPN
+Change Managed Component Library Link : Designator=Q? Old VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE New VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE Old ItemGUID=13519BA6-4E16-470A-911A-2FD88113F8CC New ItemGUID=37581E59-545F-44B6-8D3A-FB5DC3E86A9E Old RevisionGUID=64AEFF37-0BCE-459F-8646-2FE31BF1639A New RevisionGUID=2BA314CD-DC61-4EEE-B999-1E3E2BAAE4A2
+Change component parameters: Designator = "Q?" ("Q?"); Footprint = "SOT-23B_N"; UniqueID = "\WVERZDKF" ("\WVERZDKF")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "TO-226-AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEITA"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.8mm; Leads 0.55 x 0.51 mm (max)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-226-AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "Miscellaneous Devices.SchLib"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CrySCHE Member=Component * CRT

@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=12to5 Member=T1
+Added Component: Designator=*(PCBComponent_1)
+Add component (AddParameter): Name = "Design Item ID"; Value = "Component_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "HeaderCustom0_5.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=D1-1
+Added Pin To Net: NetName=Net*_1 Pin=D3-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=D2-2
+Added Pin To Net: NetName=Net*_2 Pin=D4-1
+Added Net: Name=Net*_2
+Added Member To Class: ClassName=12to5 Member=Component * Vin
