@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetP Vcc_1 Pin=Vcc-1
+Removed Pin From Net: NetName=GND Pin=Vcc-2
+Removed Pin From Net: NetName=NetJum C1_3 Pin=Vin-1
+Removed Pin From Net: NetName=GND Pin=Vin-2
+Change Component Footprint: Designator=Vcc Old Footprint=HDR1X2 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=Vin Old Footprint=HDR1X2 New Footprint=PCBComponent_1
+Change Component Comment : Designator=Vcc Old Comment=Header 2 New Comment=HeaderCustom1x1
+Change Component Comment : Designator=Vin Old Comment=Header 2 New Comment=HeaderCustom1x1
+Change Managed Component Library Link : Designator=Vcc Old VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE New VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE Old ItemGUID=89646B11-F9D0-4910-A2D1-9263786A0703 New ItemGUID=B39B4023-1773-47E8-845A-6545CD9C36C2 Old RevisionGUID=029BDCF1-3DF6-4212-9EB6-D07E5574F334 New RevisionGUID=6fa3e20d-63db-41e2-b1f7-d093c62f7f43
+Change Managed Component Library Link : Designator=Vin Old VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE New VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE Old ItemGUID=89646B11-F9D0-4910-A2D1-9263786A0703 New ItemGUID=B39B4023-1773-47E8-845A-6545CD9C36C2 Old RevisionGUID=029BDCF1-3DF6-4212-9EB6-D07E5574F334 New RevisionGUID=6fa3e20d-63db-41e2-b1f7-d093c62f7f43
+Change component parameters: Designator = "Vcc" ("Vcc"); Footprint = "HDR1X2"; UniqueID = "\XUKSWWPQ" ("\XUKSWWPQ")
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "Component_1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "HeaderCustom0_5.SchLib"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Vin" ("Vin"); Footprint = "HDR1X2"; UniqueID = "\ZBTAELGA" ("\ZBTAELGA")
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "Component_1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "HeaderCustom0_5.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Vcc-1
+Added Pin To Net: NetName=NetP Vcc_1 Pin=Vcc-2
+Added Pin To Net: NetName=GND Pin=Vin-1
+Added Pin To Net: NetName=NetJum C1_3 Pin=Vin-2

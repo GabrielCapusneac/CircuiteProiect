@@ -1,0 +1,119 @@
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=Vdd-2
+Removed Pin From Net: NetName=GND Pin=Vgg-1
+Removed Pin From Net: NetName=NetR3_1 Pin=Vgg-2
+Removed Member From Class: ClassName=pcb jfet Member=P1
+Removed Member From Class: ClassName=pcb jfet Member=P2
+Change Component Footprint: Designator=Vdd Old Footprint=HDR1X2 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=Vgg Old Footprint=HDR1X2 New Footprint=PCBComponent_1
+Change Component Comment : Designator=Vdd Old Comment=Header 2 New Comment=Component_1
+Change Component Comment : Designator=Vgg Old Comment=Header 2 New Comment=Component_1
+Change Managed Component Library Link : Designator=Vdd Old VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE New VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE Old ItemGUID=89646B11-F9D0-4910-A2D1-9263786A0703 New ItemGUID=B39B4023-1773-47E8-845A-6545CD9C36C2 Old RevisionGUID=029BDCF1-3DF6-4212-9EB6-D07E5574F334 New RevisionGUID=DE2E5C1A-0445-4716-8195-0774E73F4BF2
+Change Managed Component Library Link : Designator=Vgg Old VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE New VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE Old ItemGUID=89646B11-F9D0-4910-A2D1-9263786A0703 New ItemGUID=B39B4023-1773-47E8-845A-6545CD9C36C2 Old RevisionGUID=029BDCF1-3DF6-4212-9EB6-D07E5574F334 New RevisionGUID=DE2E5C1A-0445-4716-8195-0774E73F4BF2
+Change component parameters: Designator = "Vdd" ("Vdd"); Footprint = "HDR1X2"; UniqueID = "\XLPLEPGK" ("\XLPLEPGK")
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "Component_1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "HeaderCustom0_5.SchLib"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Vgg" ("Vgg"); Footprint = "HDR1X2"; UniqueID = "\KOTLLUKG" ("\KOTLLUKG")
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "Component_1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "HeaderCustom0_5.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=PD(PIN1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountingFixtures"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Miscellaneous Connectors.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminations"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PR2.(PIN1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountingFixtures"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Miscellaneous Connectors.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminations"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PR2(PIN1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountingFixtures"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Miscellaneous Connectors.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminations"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PS(PIN1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountingFixtures"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Miscellaneous Connectors.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminations"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PS-1
+Added Pin To Net: NetName=GND Pin=Vdd-1
+Added Pin To Net: NetName=NetR3_1 Pin=Vgg-1
+Added Pin To Net: NetName=GND Pin=Vgg-2
+Added Pin To Net: NetName=NetPD_1 Pin=PD-1
+Added Pin To Net: NetName=NetPD_1 Pin=PR2.-1
+Added Pin To Net: NetName=NetPD_1 Pin=R2-1
+Added Pin To Net: NetName=NetPD_1 Pin=T1-1
+Added Net: Name=NetPD_1
+Added Pin To Net: NetName=NetPR2_1 Pin=PR2-1
+Added Pin To Net: NetName=NetPR2_1 Pin=R2-2
+Added Pin To Net: NetName=NetPR2_1 Pin=Vdd-2
+Added Net: Name=NetPR2_1
+Added Member To Class: ClassName=pcb jfet Member=Component PD Plug
+Added Member To Class: ClassName=pcb jfet Member=Component PR2. Plug
+Added Member To Class: ClassName=pcb jfet Member=Component PR2 Plug
+Added Member To Class: ClassName=pcb jfet Member=Component PS Plug

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetP TE_1 Pin=Q1-1
+Removed Pin From Net: NetName=NetJumper C3_2 Pin=Q1-3
+Change Component Footprint: Designator=Q1 Old Footprint=TO-92A New Footprint=TO-254-AA
+Change Component Comment : Designator=Q1 Old Comment=2N3904 New Comment=JFET-N
+Change Component Designator: OldDesignator=P GND1 NewDesignator=P G1
+Change Component Designator: OldDesignator=P R1 NewDesignator=P L1D
+Change Component Designator: OldDesignator=P R1 NewDesignator=P L1S
+Change Component Designator: OldDesignator=P R2 NewDesignator=P L23
+Change Component Designator: OldDesignator=P R2 NewDesignator=P L32
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE New VaultGUID=F972DAC6-C493-4676-BC28-A72BC85A54AE Old ItemGUID=2EF6BAF7-AB16-443B-AE53-011FF21ABE7C New ItemGUID=C15E269C-DDE9-4BD4-9EBD-952C776BA122 Old RevisionGUID=7163FE84-244C-481D-A044-06A0ED818A82 New RevisionGUID=B4E06916-8F26-4014-B28B-D12E22BC8FCC
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "TO-92A"; UniqueID = "\EPBGLIHI" ("\EPBGLIHI")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "TO-254-AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEITA"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "JFET-N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-254-AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "Miscellaneous Devices.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJumper C3_2 Pin=Q1-1
+Added Pin To Net: NetName=NetP TE_1 Pin=Q1-3
+Added Member To Class: ClassName=SheetOscilator Member=Component P G1 Plug
+Added Member To Class: ClassName=SheetOscilator Member=Component P L1D Plug
+Added Member To Class: ClassName=SheetOscilator Member=Component P L1S Plug
+Added Member To Class: ClassName=SheetOscilator Member=Component P L23 Plug
+Added Member To Class: ClassName=SheetOscilator Member=Component P L32 Plug
+Added Member To Class: ClassName=SheetOscilator Member=Component Q1 JFET-N
