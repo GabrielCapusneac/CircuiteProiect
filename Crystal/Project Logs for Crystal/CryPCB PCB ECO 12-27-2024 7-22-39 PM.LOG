@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Net*_2 Pin=T1-2
+Removed Pin From Net: NetName=NetC2_2 Pin=T1-3
+Change Component Designator: OldDesignator=XTAL NewDesignator=*
+Added Pin To Net: NetName=NetC2_2 Pin=T1-2
+Added Pin To Net: NetName=Net*_2 Pin=T1-3
